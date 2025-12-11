@@ -1,0 +1,13 @@
+torch
+sentence_transformers
+transformers 
+langchain
+langchain_community
+pypdf
+PyPDF2
+qdrant-client
+python-multipart
+aiofiles
+langchain_groq
+streamlit
+huggingface_hub
